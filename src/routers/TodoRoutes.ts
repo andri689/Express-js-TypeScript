@@ -18,7 +18,6 @@ class TodoRoutes extends BaseRoutes {
 export default new TodoRoutes().router;
 
 
-
 // import BaseRoutes from "./BaseRoutes";
 
 // // Controllers
